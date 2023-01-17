@@ -358,4 +358,30 @@ Plural
 
 ---
 ## Aggettivi-Indovinate il significato!
-bella, affascinante, rumorosa, malinconica, fredda, grande, vivace, mediterranea, accogliente, antica, attiva, brutta, calda, industriale, laboriosa, moderna, multiculturale, orribile, pittoresca, popolosa, povera, pulita, ricca, splendida, sporca, trafficata, tranquilla 
+* bella
+* affascinante
+* rumorosa
+* malinconica
+* fredda
+* grande
+* vivace
+* mediterranea
+* accogliente
+* antica
+* attiva
+* brutta
+* calda
+* industriale
+* laboriosa
+* moderna
+* multiculturale
+* orribile
+* pittoresca
+* popolosa
+* povera
+* pulita
+* ricca
+* splendida
+* sporca
+* trafficata
+* tranquilla 
