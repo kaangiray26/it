@@ -355,3 +355,7 @@ Plural
 * molto - very
 * abbastanza - quite
 * per niente - not at all
+
+---
+## Aggettivi-Indovinate il significato!
+bella, affascinante, rumorosa, malinconica, fredda, grande, vivace, mediterranea, accogliente, antica, attiva, brutta, calda, industriale, laboriosa, moderna, multiculturale, orribile, pittoresca, popolosa, povera, pulita, ricca, splendida, sporca, trafficata, tranquilla 
