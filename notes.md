@@ -1,3 +1,4 @@
+# Notes
 # Questions
 * quanto = how much
   * (Quanto fa?)
@@ -15,6 +16,10 @@
 * dove = where
 * perché = why
   * (Perche é in ritardo?)
+  * (Perché studi l'italiano?)
+  * (Studio l'italiano perché è una lingua musicale)
+  * (Studio l'italiano perché per parlare con la mia famiglia italiana)
+  * (Studio l'italiano perché per lavorare in Italia)
 * chi = who
   * (Chi è lei?)
 
@@ -125,6 +130,22 @@ Non so che ora é
 # piacere
 * Al ragazzo piacciono gli elefanti.
 * Alla ragazza non piace il pollo.
+ 
+piacere Singular
+* A Marco piace leggere libri
+
+piacere Plural
+* A te piacciono i reality show?
+
+gli / agli
+* Agli italiani piace guardere la tv.
+* Gli italiani amano la buona cucina.
+
+amare
+* Maria ama studiare lingue
+
+adora
+* Nina adora fare sport
 
 # While (mentre)
 * she likes pasta while I prefer vegetables
@@ -203,18 +224,22 @@ A novembre
 ```
 
 # Weekdays
-1. il lunedi = monday
-2. il martedi = tuesday
-3. il marcoledi = wednesday
-4. il giovedi = thursday
-5. il venerdi = friday
-6. il sabato = satturday
-7. la domenica = sunday
+|           |              |
+| --------- | ------------ |
+| monday    | il lunedì    |
+| tuesday   | il martedi   |
+| wednesday | il mercoledì |
+| thursday  | il giovedi   |
+| friday    | il venerdi   |
+| saturday  | il sabato    |
+| sunday    | la domenica  |
 
 * On Mondays I don't work.
 ```
 Il lunedì non lavoro.
 ```
+* a lunedì
+* a il mercoledì
 
 # Prepositions
 * di = of
@@ -344,3 +369,102 @@ Vive qui da 5 mesi.
 
 # This (queste)
 * Questo libro è mio
+
+# Salutare in italiano
+| .                       | .                                |
+| ----------------------- | -------------------------------- |
+| Guten Tag               | buongiorno/buon giorno           |
+| Guten Abend             | buonasera/buona sera             |
+| Gute Nacht              | buonanotte/buona notte           |
+| Schönen Tag noch        | buona giornata                   |
+| Schönen Abend noch      | buona serata                     |
+| Schönen Nachmittag noch | buon pomeriggio                  |
+| Schönes Wochenende      | buon fine settimana/buon weekend |
+
+# Länder und Nationalitäten
+* Francia - francese
+* Germania - tedesco
+* Spagna - Spagnolo
+* America - Americano
+* Inghilterra - Inglese
+* Olanda - Olandese
+* Italia - Italiano
+* Turchia - Turco
+* Potogallo - Portoghese
+* Polonia - Polacco
+* Russia - Russo
+* Austria - Austriaco
+
+# Prozente
+* 10% - dieci per cento
+* 10.5% - dieci virgola cinque per cento
+
+# Hunger / Thirst
+* Ho fame / Ho sete
+
+# Avverbi di frequenza
+|           |               |
+| --------- | ------------- |
+| usually   | di solito     |
+| sometimes | qualche volta |
+| sometimes | a volte       |
+| always    | sempre        |
+| often     | spesso        |
+| rarely    | raramente     |
+| never     | mai           |
+
+Vor dem Verb:
+* A volte ceno con amici
+
+Nach dem Verb:
+* Mangio sempre a casa
+
+Negativ (vor dem Verb):
+* Non bevo mai alcolici
+
+# L'orario
+* 05: e 5
+* 10: e 10
+* 15: e un quarto
+* 20: e 20
+* 25: e 25
+* 30: e mezza
+* 35: e 35
+  
+* 40: meno 20
+* 45: meno un quarto
+* 50: meno 10
+* 55: meno 5
+
+# A che ora?
+* Alle due ho lezione.
+* La biblioteca è aperta dalle 8:00 alle 20:00.
+
+* a mezzogiorno
+* all' una
+* alle otto
+* alle due
+
+* da mezzogiorno all' una
+* dall' una alle due
+* dalle due alle tre
+
+# vorrei
+bei Verben
+* io vorrei iscrivermi a questa universita
+
+bei Nomen
+* io vorrei anche alcune informazioni su questa universita
+
+# Anche
+* Anche a me.
+* Neanche a me.
+
+* A me invece no.
+* A me invece si.
+
+# Quantity
+* moltissimo - very much,
+* molto - very
+* abbastanza - quite
+* per niente - not at all

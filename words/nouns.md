@@ -1,4 +1,4 @@
-# nouns
+# Nouns
 
 | noun          | meaning     |
 | ------------- | ----------- |
