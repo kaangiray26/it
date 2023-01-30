@@ -2,6 +2,7 @@
 # Unita 1
 ## 1. Das Substantiv
 Substantive sind im Italienischen entweder maskulin oder feminin. Sie haben in der Regel folgende Endungen:
+
 |                    | Endungen | Singular             |
 | ------------------ | -------- | -------------------- |
 | maskulin           | -o       | mondo                |
@@ -162,6 +163,7 @@ Besonderheiten
 * Substantive mit Endung auf -ista sind sowohl maskulin als auch feminin. Sie enden im Plural auf -i bzw. -e.
 
 ## 2. Der bestimmte Artikel
+
 |            |                   | Singular      | Plural         |
 | ---------- | ----------------- | ------------- | -------------- |
 | Maskulinum | vor Konsonant     | il panino     | i panini       |
@@ -262,6 +264,7 @@ In der Umgangssprache werden nicht reflexive Verben manchmal reflexiv gebraucht,
 * La mattina mi faccio il caffè
 
 ## 2. Modalverben
+
 |                 | dovere   | potere   | volere   |
 | --------------- | -------- | -------- | -------- |
 | (io)            | devo     | posso    | voglio   |
@@ -314,6 +317,7 @@ und in der 3. Person Plural gebraucht.
 
 
 ## 6. Die unbetonten indirekten Objektpronomen
+
 |          |     |       |
 | -------- | --- | ----- |
 | Singular | mi  | mir   |
@@ -333,6 +337,7 @@ Die Verneinung **non** steht vor dem Pronomen.
 * Non ci piace andare a teatro.
 
 ## 7. Die Possessivbegleiter
+
 |            | Singular  | Plural    |
 | ---------- | --------- | --------- |
 | Maskulinum | il mio    | i miei    |
@@ -369,12 +374,14 @@ nicht auf die Person.
 | -ga -> -ghe | la riga -> le righe             |
 
 Betonung auf der vorletzten Silbe
+
 | m.          |                           |
 | ----------- | ------------------------- |
 | -co -> -chi | il parco -> i parchi      |
 | -go -> -ghi | l'albergo -> gli alberghi |
 
 Betonung auf der drittletzten Silbe
+
 | m.         |                               |
 | ---------- | ----------------------------- |
 | -co -> -ci | il medico -> i medici         |
@@ -412,6 +419,7 @@ Achtung! Bei reflexiven Verben wird **si** zu **ci**.
 * A Bologna non ci si annoia mai.
 
 ## 3. Die Ordnungszahlen
+
 |             |            |             |                 |
 | ----------- | ---------- | ----------- | --------------- |
 | 1th primo   | 4th quarto | 7th settimo | 10th decimo     |
@@ -426,6 +434,7 @@ Die Ordnungszahlen sind Adjektive. Sie richten sich in Genus und Numerus nach ih
 * È la prima strada sulla sinistra.
 
 ## 4. Die unbetonten direkten Objektpronomen
+
 |          |     |          |
 | -------- | --- | -------- |
 | Singular | mi  | mich     |
@@ -463,6 +472,7 @@ Achtung! Die Präposition da wird auch bei Orts- und Richtungsangaben in Verbind
 * Sono da Maria. - Ich bin bei Maria.
 
 ## 6. Die Ortspräpositionen
+
 |             |                  |
 | ----------- | ---------------- |
 | sotto       | unter            |

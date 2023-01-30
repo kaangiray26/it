@@ -24,6 +24,7 @@
   * (Chi è lei?)
 
 # Possessions
+
 | Person  | m singular | m plural | f singular | f plural |
 | ------- | ---------- | -------- | ---------- | -------- |
 | io      | mio        | miei     | mia        | mie      |
@@ -115,6 +116,7 @@ Non so che ora é
 ```
 
 # Unbestimmte Artikel
+
 | Position        | Maskulinum       | Feminum   |
 | --------------- | ---------------- | --------- |
 | vor Konsonant   | un lavoro        | una casa  |
@@ -224,6 +226,7 @@ A novembre
 ```
 
 # Weekdays
+
 |           |              |
 | --------- | ------------ |
 | monday    | il lunedì    |
@@ -371,6 +374,7 @@ Vive qui da 5 mesi.
 * Questo libro è mio
 
 # Salutare in italiano
+
 |                         |                                  |
 | ----------------------- | -------------------------------- |
 | Guten Tag               | buongiorno/buon giorno           |
@@ -403,6 +407,7 @@ Vive qui da 5 mesi.
 * Ho fame / Ho sete
 
 # Avverbi di frequenza
+
 |           |               |
 | --------- | ------------- |
 | usually   | di solito     |
