@@ -50,3 +50,4 @@
 | vivere       | to live                     |
 | volere       | to want                     |
 | desiderare   | to want / desire / wish for |
+| imparare     | to learn                    |

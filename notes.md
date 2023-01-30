@@ -473,3 +473,41 @@ bei Nomen
 * molto - very
 * abbastanza - quite
 * per niente - not at all
+
+# Betonung
+[Source](https://www.grammatiken.de/italienisch-grammatik-online-lernen/italienisch-richtige-aussprache-buchstaben-betonung-auf-vorletzter-silbe-akzent-ausnahmen.php)
+
+Damit Sie sich eine verständliche und idiomatische Aussprache aneignen können, ist es wichtig, dass Sie sich auch mit der Betonung der Wörter auskennen.
+
+Die meisten italienischen Wörter werden auf der vorletzten Silbe betont. Beispiele:
+* bam**bi**no (Kind)
+* al**ber**go (Hotel)
+* **ma**dre (Mutter)
+* man**tel**lo (Mantel)
+  
+Trägt ein Wort einen Akzent auf der letzten Silbe oder besteht das Wort aus nur einer Silbe, so wird es auf der letzten Silbe betont. Beispiele:
+* citt**à** (Stadt)
+* caff**è** (Kaffee)
+* il **re** (der König)
+* il **bar** (die Bar)
+* per**ché** (weil)
+* an**dò** (er ging)
+
+Beachten Sie aber, dass angehängte Pronomen NICHT betont werden. Die Wortbetonung verschiebt sich also nicht, wenn noch mehr Pronomen angehängt werden. Beispiele:
+* **po**rta! (bring!)
+* **po**rtalo! (bring es!)
+* **po**rtamelo! (bring es mir!)
+
+Leider gibt es aber auch einige Ausnahmen. Manche Wörter werden (obwohl sie keinen Akzent tragen und aus mehreren Silben bestehen) NICHT auf der vorletzten Silbe betont. Wir haben hier einige häufige Beispiele zusammengetragen. Beispiele:
+* te**le**fono (Telefon) – genauso auch alle anderen Wörter auf -fono: me**ga**fono (Megafon), ci**to**fono (Gegensprechanlage)
+* viele Wörter mit der Endung -ico/-ica: **fab**brica (die Fabrik), **in**dice (Zeigefinger), do**me**nica (Sonntag), **mu**sica (Musik), **lo**gica (Logik), cat**to**lico (katholisch)
+* viele Wörter mit der Endung -logo: psic**o**logo (Psychologe), astr**o**logo (Astrologe)
+* **sa**bato (Samstag)
+
+Die Betonung kann dabei durchaus auch einen Bedeutungsunterschied machen, wie das folgende Beispiel verdeutlicht:
+* **an**cora (Anker)
+* an**co**ra (nochmal)
+
+Da auch manche Verbformen „unregelmäßig” betont werden, gehen wir hierauf noch einmal gezielt ein, wenn wir diese neu einführen.
+
+Allgemein können Sie Ihre Betonung vor allem dadurch verbessern, dass Sie viel auf Italienisch hören und sprechen. Achten Sie auch bei den Lektionstexten auf die korrekte Betonung der Muttersprachler.
