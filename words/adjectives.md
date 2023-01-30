@@ -33,3 +33,4 @@
 | sporco         | dirty              |
 | trafficata     | with heavy traffic |
 | tranquillo     | calm               |
+| prossimo       | next               |
