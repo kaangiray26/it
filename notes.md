@@ -188,6 +188,7 @@ Lavorano per decenni.
 * a presto = see you soon
 * a mezzogiorno = at noon
 * al giorno = a day
+* quotidiano = daily
 
 * il secondo = second
 * il minuto = minute
@@ -366,6 +367,7 @@ Dove sei ora?
 ```
 Vive qui da 5 mesi.
 ```
+* L'appartamento del postino é qui.
 
 # Now (adesso)
 * Adesso non voglio avere queste discussioni.
@@ -511,3 +513,15 @@ Die Betonung kann dabei durchaus auch einen Bedeutungsunterschied machen, wie da
 Da auch manche Verbformen „unregelmäßig” betont werden, gehen wir hierauf noch einmal gezielt ein, wenn wir diese neu einführen.
 
 Allgemein können Sie Ihre Betonung vor allem dadurch verbessern, dass Sie viel auf Italienisch hören und sprechen. Achten Sie auch bei den Lektionstexten auf die korrekte Betonung der Muttersprachler.
+
+# It is hot today
+* Fa caldo oggi.
+
+# What is the size of the pants?
+* Qual è la taglia dei pantaloni?
+
+# Only (soltanto)
+* avere in testa soltanto delle cavolate
+
+# Together (insieme)
+* Passiamo il giorno insieme.

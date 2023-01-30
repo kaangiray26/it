@@ -6,6 +6,8 @@
 | alzarsi       | to get up                   |
 | andare        | to go                       |
 | aperto        | to open                     |
+| annoiare      | to bore                     |
+| annoiarsi     | to get bored                |
 | arrivare      | to arrive                   |
 | ascoltare     | to listen to                |
 | aspettare     | to wait                     |
@@ -36,7 +38,7 @@
 | mettersi      | to get                      |
 | morire        | to die                      |
 | parlare       | to talk / speak             |
-| passare       | to pass                     |
+| passare       | to spend/  pass             |
 | pensare       | to think                    |
 | piacere       | to please / like            |
 | portare       | to bring / wear             |
@@ -58,3 +60,9 @@
 | venire        | to come                     |
 | vivere        | to live                     |
 | volere        | to want                     |
+| vendere       | to sell                     |
+| capire        | to understand               |
+| colpire       | to hit                      |
+| studiare      | to study                    |
+| abitare       | to live                     |
+| perdere       | to lose                     |
