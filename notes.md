@@ -371,7 +371,7 @@ Vive qui da 5 mesi.
 * Questo libro è mio
 
 # Salutare in italiano
-| .                       | .                                |
+|                         |                                  |
 | ----------------------- | -------------------------------- |
 | Guten Tag               | buongiorno/buon giorno           |
 | Guten Abend             | buonasera/buona sera             |
