@@ -66,3 +66,17 @@
 | studiare      | to study                    |
 | abitare       | to live                     |
 | perdere       | to lose                     |
+| iniziare      | to begin                    |
+| situare       | to locate                   |
+| pagare        | to pay                      |
+| aggiungere    | to add                      |
+| tirare        | to pull                     |
+| cambiare      | to change                   |
+| provare       | to try                      |
+| giocare       | to play                     |
+| unire         | to unite                    |
+| scusare       | to apologize                |
+| attraversare  | to cross                    |
+| mancare       | missing                     |
+| consigliare   | to recommend                |
+| presentare    | to present                  |

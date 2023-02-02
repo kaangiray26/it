@@ -63,3 +63,28 @@
 | il giocattolo  | toy         |
 | la chiave      | key         |
 | l'appartamento | apartment   |
+| lo sciampo     | shampoo     |
+| il bagno       | bathroom    |
+| la stanza      | room        |
+| il telefono    | telephone   |
+| il portico     | entrance    |
+| il negozio     | shop        |
+| la fontana     | fountain    |
+| la chiesa      | church      |
+| il ponte       | bridge      |
+| la piazza      | square      |
+| la farmacia    | pharmacy    |
+| il fiume       | river       |
+| la posta       | the mail    |
+| il museo       | museum      |
+| l'anno         | year        |
+| il giro        | turn        |
+| il dettagglio  | detail      |
+| il pasto       | the meal    |
+| il mondo       | world       |
+| il cancello    | gate        |
+| la scala       | ladder      |
+| la sedia       | chair       |
+| la coperta     | blanket     |
+| il tetto       | roof        |
+| la stagione    | season      |

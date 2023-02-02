@@ -92,6 +92,7 @@ Non puoi finché non finisci la cena.
 * gli uccelli sono gialli
 * lei é piccola ed io sono grande
 * sono cavalli piccoli
+* il nostro tempo e breve
 
 # Ago (fa)
 * long ago
@@ -202,10 +203,10 @@ Lavorano per decenni.
 * il secolo = century
 
 # Seasons
-* l'inverno = Winter
-* l'autunno = Autumn
 * la primavera = Spring
 * l'estate = Summer
+* l'autunno = Autumn
+* l'inverno = Winter
 
 # Months
 1. il gennaio = January
@@ -525,3 +526,11 @@ Allgemein können Sie Ihre Betonung vor allem dadurch verbessern, dass Sie viel 
 
 # Together (insieme)
 * Passiamo il giorno insieme.
+
+# Around (intorno)
+* Lei guarda intorno.
+
+# Here it is (eccolo)
+
+# Thank you again!
+* Grazie di nuovo!
